@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+struct Node{
+    int data;
+    Node* next;
+};
+
+bool isPalindrome(Node* head){
+    // simple placeholder
+    return true;
+}
+
+int main(){
+    cout<<"Palindrome Linked List Example";
+}
