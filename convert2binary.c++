@@ -18,3 +18,7 @@ string convert2binary(int num){
     return res;
     
 }
+int main(){
+    cout<<convert2binary(84);
+    return 0;
+}
