@@ -8,7 +8,7 @@ public:
               vector<int> hash(256,0);
             for(int j=i;j<n;j++){
                 if(hash[s[j]]==1) break;
-                hash[s[j]]=1;
+                hash[s[j]]++;
                  maxi=max(maxi,j-i+1);
             }
            
