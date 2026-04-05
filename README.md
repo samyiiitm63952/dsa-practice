@@ -47,9 +47,11 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/samyiiitm63952/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/samyiiitm63952/dsa-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/samyiiitm63952/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/samyiiitm63952/dsa-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
