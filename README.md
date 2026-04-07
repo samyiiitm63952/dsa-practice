@@ -81,6 +81,7 @@ My Data Structures and Algorithms practice
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/samyiiitm63952/dsa-practice/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -90,4 +91,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/2069-walking-robot-simulation-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/samyiiitm63952/dsa-practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
