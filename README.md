@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/samyiiitm63952/dsa-practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -123,4 +124,12 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
