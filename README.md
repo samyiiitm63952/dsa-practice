@@ -17,6 +17,7 @@ My Data Structures and Algorithms practice
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ My Data Structures and Algorithms practice
 | [0992-subarrays-with-k-different-integers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Prefix Sum
 |  |
 | ------- |
