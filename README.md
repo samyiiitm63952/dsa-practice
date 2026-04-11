@@ -19,6 +19,7 @@ My Data Structures and Algorithms practice
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My Data Structures and Algorithms practice
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
 |  |
 | ------- |
