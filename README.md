@@ -29,6 +29,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/samyiiitm63952/dsa-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ My Data Structures and Algorithms practice
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/samyiiitm63952/dsa-practice/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/samyiiitm63952/dsa-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/samyiiitm63952/dsa-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Simulation
