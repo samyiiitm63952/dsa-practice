@@ -18,6 +18,7 @@ My Data Structures and Algorithms practice
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -27,6 +28,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@ My Data Structures and Algorithms practice
 | [0992-subarrays-with-k-different-integers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
