@@ -110,6 +110,7 @@ My Data Structures and Algorithms practice
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/samyiiitm63952/dsa-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/samyiiitm63952/dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
 | ------- |
