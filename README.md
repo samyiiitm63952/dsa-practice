@@ -18,6 +18,7 @@ My Data Structures and Algorithms practice
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
@@ -95,6 +96,7 @@ My Data Structures and Algorithms practice
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/samyiiitm63952/dsa-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/samyiiitm63952/dsa-practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Simulation
 |  |
@@ -161,4 +163,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
