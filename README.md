@@ -21,6 +21,7 @@ My Data Structures and Algorithms practice
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -33,6 +34,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
@@ -46,6 +48,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -114,6 +117,7 @@ My Data Structures and Algorithms practice
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/samyiiitm63952/dsa-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/samyiiitm63952/dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
@@ -167,4 +171,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
