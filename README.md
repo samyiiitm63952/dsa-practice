@@ -48,6 +48,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/samyiiitm63952/dsa-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/3225-maximum-score-from-grid-operations) |
@@ -127,6 +128,7 @@ My Data Structures and Algorithms practice
 | [0050-powx-n](https://github.com/samyiiitm63952/dsa-practice/tree/master/0050-powx-n) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0788-rotated-digits) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
