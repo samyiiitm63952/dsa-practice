@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +127,7 @@ My Data Structures and Algorithms practice
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/samyiiitm63952/dsa-practice/tree/master/0050-powx-n) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -203,6 +205,7 @@ My Data Structures and Algorithms practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
