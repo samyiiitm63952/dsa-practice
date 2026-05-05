@@ -168,6 +168,7 @@ My Data Structures and Algorithms practice
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Backtracking
@@ -219,5 +220,6 @@ My Data Structures and Algorithms practice
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
