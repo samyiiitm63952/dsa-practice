@@ -150,6 +150,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/samyiiitm63952/dsa-practice/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -215,4 +216,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
