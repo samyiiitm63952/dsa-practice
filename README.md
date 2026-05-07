@@ -148,6 +148,7 @@ My Data Structures and Algorithms practice
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [2069-walking-robot-simulation-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/2069-walking-robot-simulation-ii) |
 ## Recursion
 |  |
@@ -163,6 +164,7 @@ My Data Structures and Algorithms practice
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 ## Memoization
 |  |
@@ -227,4 +229,8 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
