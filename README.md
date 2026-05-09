@@ -109,6 +109,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -166,6 +167,7 @@ My Data Structures and Algorithms practice
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 ## Memoization
