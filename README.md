@@ -10,6 +10,7 @@ My Data Structures and Algorithms practice
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/samyiiitm63952/dsa-practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -178,6 +179,7 @@ My Data Structures and Algorithms practice
 | [0155-min-stack](https://github.com/samyiiitm63952/dsa-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 ## Memoization
 |  |
@@ -251,4 +253,5 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
