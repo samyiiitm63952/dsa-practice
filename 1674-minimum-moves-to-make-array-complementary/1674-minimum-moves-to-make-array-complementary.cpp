@@ -4,7 +4,7 @@ public:
 
         int n = nums.size();
 
-        // difference array
+        // Difference array
         vector<int> diff(2 * limit + 2, 0);
 
         for(int i = 0; i < n / 2; i++) {
@@ -17,25 +17,16 @@ public:
 
             int sum = a + b;
 
-            /*
-                Initially assume 2 moves for all sums
-            */
-
+            // Assume 2 moves for every target sum
             diff[2] += 2;
             diff[2 * limit + 1] -= 2;
 
-            /*
-                1 move range:
-                [low + 1 , high + limit]
-            */
-
+            // 1 move possible in range:
+            // [low+1 , high+limit]
             diff[low + 1] -= 1;
             diff[high + limit + 1] += 1;
 
-            /*
-                0 move at exact sum
-            */
-
+            // 0 move at exact sum
             diff[sum] -= 1;
             diff[sum + 1] += 1;
         }
@@ -43,9 +34,10 @@ public:
         int ans = INT_MAX;
         int curr = 0;
 
-        for(int s = 2; s <= 2 * limit; s++) {
+        // Prefix sum to get actual moves
+        for(int target = 2; target <= 2 * limit; target++) {
 
-            curr += diff[s];
+            curr += diff[target];
 
             ans = min(ans, curr);
         }
