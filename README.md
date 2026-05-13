@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samyiiitm63952/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -93,6 +94,7 @@ My Data Structures and Algorithms practice
 | [0992-subarrays-with-k-different-integers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -105,6 +107,7 @@ My Data Structures and Algorithms practice
 | [1004-max-consecutive-ones-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samyiiitm63952/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3225-maximum-score-from-grid-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Sliding Window
 |  |
