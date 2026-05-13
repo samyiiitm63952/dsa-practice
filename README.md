@@ -13,6 +13,7 @@ My Data Structures and Algorithms practice
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/samyiiitm63952/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/samyiiitm63952/dsa-practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/samyiiitm63952/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -137,6 +138,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/samyiiitm63952/dsa-practice/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/samyiiitm63952/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/samyiiitm63952/dsa-practice/tree/master/0874-walking-robot-simulation) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 | [1914-cyclically-rotating-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1914-cyclically-rotating-a-grid) |
@@ -188,6 +190,7 @@ My Data Structures and Algorithms practice
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/samyiiitm63952/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/samyiiitm63952/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 | [2104-sum-of-subarray-ranges](https://github.com/samyiiitm63952/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
