@@ -4,33 +4,31 @@ public:
 
         stack<char> st;
 
-        for(char digit : num) {
+        for(int i = 0; i < num.size(); i++) {
 
             while(!st.empty() &&
                   k > 0 &&
-                  st.top() > digit) {
+                  st.top() > num[i]) {
 
                 st.pop();
                 k--;
             }
 
-            st.push(digit);
+            st.push(num[i]);
         }
 
-        // still removals left
+        // if k still remains
         while(k > 0) {
             st.pop();
             k--;
         }
 
-        string ans = "";
+        string ans(st.size(), ' ');
 
-        while(!st.empty()) {
-            ans += st.top();
+        for(int i = ans.size() - 1; i >= 0; i--) {
+            ans[i] = st.top();
             st.pop();
         }
-
-        reverse(ans.begin(), ans.end());
 
         // remove leading zeros
         int i = 0;
