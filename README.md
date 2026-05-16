@@ -12,6 +12,7 @@ My Data Structures and Algorithms practice
 | [0084-largest-rectangle-in-histogram](https://github.com/samyiiitm63952/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
