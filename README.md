@@ -27,6 +27,7 @@ My Data Structures and Algorithms practice
 | [1004-max-consecutive-ones-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/samyiiitm63952/dsa-practice/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samyiiitm63952/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -105,6 +106,7 @@ My Data Structures and Algorithms practice
 | [0930-binary-subarrays-with-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1345-jump-game-iv](https://github.com/samyiiitm63952/dsa-practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/samyiiitm63952/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -261,6 +263,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/samyiiitm63952/dsa-practice/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
