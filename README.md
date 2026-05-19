@@ -193,6 +193,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0155-min-stack](https://github.com/samyiiitm63952/dsa-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/samyiiitm63952/dsa-practice/tree/master/0901-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/2069-walking-robot-simulation-ii) |
 ## Recursion
@@ -293,6 +294,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
