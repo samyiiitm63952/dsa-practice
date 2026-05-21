@@ -14,6 +14,7 @@ My Data Structures and Algorithms practice
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -94,6 +95,7 @@ My Data Structures and Algorithms practice
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -211,6 +213,7 @@ My Data Structures and Algorithms practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -332,6 +335,7 @@ My Data Structures and Algorithms practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -354,4 +358,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
