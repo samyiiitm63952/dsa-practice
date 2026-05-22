@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/samyiiitm63952/dsa-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
@@ -68,6 +69,7 @@ My Data Structures and Algorithms practice
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/samyiiitm63952/dsa-practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
