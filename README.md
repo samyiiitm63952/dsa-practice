@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/samyiiitm63952/dsa-practice/tree/master/0035-search-insert-position) |
@@ -116,6 +117,7 @@ My Data Structures and Algorithms practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
