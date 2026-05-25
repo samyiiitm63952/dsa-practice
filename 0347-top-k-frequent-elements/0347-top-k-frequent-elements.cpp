@@ -5,19 +5,14 @@ public:
         for(auto it:nums){
             mpp[it]++;
         }
-        vector<int>ans;
-        
-        while(k--){
-        int freq=0;
-        int element;
+        priority_queue<pair<int,int>>pq;
         for(auto it:mpp){
-            if(it.second>freq){
-                freq=it.second;
-                element=it.first;
-            }
+            pq.push({it.second,it.first});
         }
-        ans.push_back(element);
-        mpp.erase(element);
+        vector<int>ans;
+        while(k--){
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
         return ans;
     }
