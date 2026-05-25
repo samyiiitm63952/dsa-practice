@@ -226,6 +226,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0155-min-stack](https://github.com/samyiiitm63952/dsa-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/samyiiitm63952/dsa-practice/tree/master/0901-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/2069-walking-robot-simulation-ii) |
@@ -361,6 +362,7 @@ My Data Structures and Algorithms practice
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/samyiiitm63952/dsa-practice/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
@@ -370,6 +372,7 @@ My Data Structures and Algorithms practice
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -398,4 +401,16 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
