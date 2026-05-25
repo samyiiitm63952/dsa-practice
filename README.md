@@ -19,6 +19,7 @@ My Data Structures and Algorithms practice
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
@@ -106,6 +107,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -121,6 +123,7 @@ My Data Structures and Algorithms practice
 | [0001-two-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -215,6 +218,7 @@ My Data Structures and Algorithms practice
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
@@ -236,6 +240,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samyiiitm63952/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -363,6 +368,7 @@ My Data Structures and Algorithms practice
 | [0023-merge-k-sorted-lists](https://github.com/samyiiitm63952/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -377,6 +383,7 @@ My Data Structures and Algorithms practice
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -390,4 +397,5 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
