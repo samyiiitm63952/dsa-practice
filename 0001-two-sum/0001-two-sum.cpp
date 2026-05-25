@@ -1,12 +1,20 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                int k=nums[i]+nums[j];
-                if(k==target)return{i,j};
+
+        map<int,int> st;
+
+        for(int i = 0; i < nums.size(); i++) {
+
+            int req = target - nums[i];
+
+            if(st.find(req) != st.end()) {
+                return {st[req], i};
             }
+
+            st[nums[i]] = i;
         }
-        return {-1,-1};
+
+        return {-1, -1};
     }
 };
