@@ -1,7 +1,11 @@
 class MedianFinder {
 public:
 
-    vector<int> nums;
+    // stores smaller half
+    priority_queue<int> maxHeap;
+
+    // stores larger half
+    priority_queue<int, vector<int>, greater<int>> minHeap;
 
     MedianFinder() {
         
@@ -9,19 +13,32 @@ public:
     
     void addNum(int num) {
 
-        auto it = lower_bound(nums.begin(), nums.end(), num);
+        // Step 1:
+        // insert into max heap
+        maxHeap.push(num);
 
-        nums.insert(it, num);
+        // Step 2:
+        // move largest element to min heap
+        minHeap.push(maxHeap.top());
+        maxHeap.pop();
+
+        // Step 3:
+        // maintain size balance
+        if(minHeap.size() > maxHeap.size()) {
+
+            maxHeap.push(minHeap.top());
+            minHeap.pop();
+        }
     }
     
     double findMedian() {
 
-        int n = nums.size();
-
-        if(n % 2 != 0) {
-            return nums[n/2];
+        // odd number of elements
+        if(maxHeap.size() > minHeap.size()) {
+            return maxHeap.top();
         }
 
-        return (nums[n/2] + nums[n/2 - 1]) / 2.0;
+        // even number of elements
+        return (maxHeap.top() + minHeap.top()) / 2.0;
     }
 };
