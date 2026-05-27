@@ -244,6 +244,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0050-powx-n](https://github.com/samyiiitm63952/dsa-practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -346,6 +347,7 @@ My Data Structures and Algorithms practice
 | [0023-merge-k-sorted-lists](https://github.com/samyiiitm63952/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
