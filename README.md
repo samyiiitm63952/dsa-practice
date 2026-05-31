@@ -7,6 +7,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/samyiiitm63952/dsa-practice/tree/master/0035-search-insert-position) |
@@ -113,6 +114,7 @@ My Data Structures and Algorithms practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -287,6 +289,7 @@ My Data Structures and Algorithms practice
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
