@@ -52,6 +52,7 @@ My Data Structures and Algorithms practice
 | [1914-cyclically-rotating-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/samyiiitm63952/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2126-destroying-asteroids](https://github.com/samyiiitm63952/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -120,6 +121,7 @@ My Data Structures and Algorithms practice
 | [1331-rank-transform-of-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/samyiiitm63952/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/samyiiitm63952/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -379,6 +381,7 @@ My Data Structures and Algorithms practice
 | [0402-remove-k-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/samyiiitm63952/dsa-practice/tree/master/2126-destroying-asteroids) |
 ## Data Stream
 |  |
 | ------- |
