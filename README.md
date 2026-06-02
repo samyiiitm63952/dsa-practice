@@ -19,6 +19,7 @@ My Data Structures and Algorithms practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samyiiitm63952/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -316,10 +317,12 @@ My Data Structures and Algorithms practice
 | [0039-combination-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Depth-First Search
 |  |
