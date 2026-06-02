@@ -14,6 +14,7 @@ My Data Structures and Algorithms practice
 | [0039-combination-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/samyiiitm63952/dsa-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -316,6 +317,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0039-combination-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/samyiiitm63952/dsa-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
