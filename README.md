@@ -15,6 +15,7 @@ My Data Structures and Algorithms practice
 | [0040-combination-sum-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/samyiiitm63952/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/samyiiitm63952/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
@@ -127,6 +128,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0015-3sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -323,6 +325,7 @@ My Data Structures and Algorithms practice
 | [0039-combination-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/samyiiitm63952/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/samyiiitm63952/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
