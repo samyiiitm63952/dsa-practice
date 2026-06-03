@@ -1,27 +1,20 @@
 class Solution {
 public:
-    bool isafe(vector<string>board,int n,int row, int col){
-        for(int r=row,c=col;r>=0&&c>=0;r--,c--){
-            if(board[r][c]=='Q')return false;
-        }
-        for(int r=row,c=col;r>=0&&c>=0;c--){
-            if(board[r][c]=='Q')return false;
-        }
-        for(int r=row,c=col;r<n&&c>=0;r++,c--){
-            if(board[r][c]=='Q')return false;
-        }
-        return true;
-    }
-
-    void solve(int col,vector<vector<string>>& ans,vector<string>& board,int n){
+    void solve(int col,vector<vector<string>>& ans,vector<string>& board,int n,vector<int>& lr,vector<int>& upd, vector<int>& lrd){
         if(col==n){
-            ans.push_back(board);
+            ans.push_back(board); 
             return;
         }
         for(int row = 0;row<n;row++){
-            if(isafe(board,n,row,col)){
+            if(lr[row]==0 && upd[n-1 +col-row]==0 && lrd[col+row]==0){
+                lr[row]=1;
+                upd[n-1 +col-row]=1;
+                lrd[row +col]=1;
                 board[row][col]='Q';
-                solve(col+1,ans,board,n);
+                solve(col+1,ans,board,n,lr,upd,lrd);
+                lr[row]=0;
+                upd[n-1 +col-row]=0;
+                lrd[row +col]=0;
                 board[row][col]='.';
             }
         }
@@ -35,7 +28,8 @@ public:
         for(auto &it:board){
             it=s;
         }
-        solve(0,ans,board,n);
+        vector<int>lr(n,0),upd(2*n-1,0),lrd(2*n-1,0);
+        solve(0,ans,board,n,lr,upd,lrd);
         return ans;
     }
 };
