@@ -18,6 +18,7 @@ My Data Structures and Algorithms practice
 | [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/samyiiitm63952/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samyiiitm63952/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
@@ -204,6 +205,7 @@ My Data Structures and Algorithms practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0344-reverse-string) |
@@ -323,6 +325,7 @@ My Data Structures and Algorithms practice
 | [0046-permutations](https://github.com/samyiiitm63952/dsa-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/samyiiitm63952/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -334,6 +337,7 @@ My Data Structures and Algorithms practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -365,6 +369,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
