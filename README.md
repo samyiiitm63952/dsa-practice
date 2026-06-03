@@ -109,6 +109,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0788-rotated-digits) |
@@ -204,6 +205,7 @@ My Data Structures and Algorithms practice
 | [0020-valid-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -322,6 +324,7 @@ My Data Structures and Algorithms practice
 | [0051-n-queens](https://github.com/samyiiitm63952/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
