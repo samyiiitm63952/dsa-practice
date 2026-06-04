@@ -1,56 +1,31 @@
 class Solution {
 public:
-
-    void solve(int open,
-               int close,
-               string &curr,
-               vector<string>& ans,
-               int n){
-
-        // complete valid string
-        if(curr.size() == 2*n){
-
+    void solve(int open,int close, vector<string>& ans ,string curr,int n){
+        if(curr.size()==2*n){
             ans.push_back(curr);
             return;
         }
-
-        // add opening bracket
-        if(open < n){
-
+        if(open<n){
             curr.push_back('(');
-
-            solve(open + 1,
-                  close,
-                  curr,
-                  ans,
-                  n);
-
+            open+=1;
+            solve(open,close,ans,curr,n);
             curr.pop_back();
+            open--;
         }
-
-        // add closing bracket
-        if(close < open){
-
+        if(close<open){
             curr.push_back(')');
-
-            solve(open,
-                  close + 1,
-                  curr,
-                  ans,
-                  n);
-
+            close+=1;
+            solve(open,close,ans,curr,n);
             curr.pop_back();
+            close--;
         }
     }
 
+
     vector<string> generateParenthesis(int n) {
-
-        vector<string> ans;
-
-        string curr;
-
-        solve(0,0,curr,ans,n);
-
+        vector<string>ans;
+        string curr="";
+        solve(0,0,ans,curr,n);
         return ans;
     }
 };
