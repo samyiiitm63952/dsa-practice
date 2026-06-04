@@ -111,6 +111,7 @@ My Data Structures and Algorithms practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
@@ -209,6 +210,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -327,6 +329,7 @@ My Data Structures and Algorithms practice
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/samyiiitm63952/dsa-practice/tree/master/0046-permutations) |
