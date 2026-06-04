@@ -228,6 +228,7 @@ My Data Structures and Algorithms practice
 | [3093-longest-common-suffix-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/samyiiitm63952/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -335,12 +336,14 @@ My Data Structures and Algorithms practice
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/samyiiitm63952/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/samyiiitm63952/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
