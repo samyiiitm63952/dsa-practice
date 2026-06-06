@@ -4,27 +4,38 @@ public:
 
         vector<int> ans;
 
-        if(root == NULL) return ans;
-
         stack<TreeNode*> st;
 
-        st.push(root);
+        TreeNode* curr = root;
+        TreeNode* lastVisited = NULL;
 
-        while(!st.empty()) {
+        while(curr != NULL || !st.empty()) {
 
-            TreeNode* temp = st.top();
-            st.pop();
+            // Go as left as possible
+            if(curr != NULL) {
+                st.push(curr);
+                curr = curr->left;
+            }
+            else {
 
-            ans.push_back(temp->val);
+                TreeNode* temp = st.top();
 
-            if(temp->left)
-                st.push(temp->left);
+                // If right subtree exists and not processed yet
+                if(temp->right != NULL &&
+                   lastVisited != temp->right) {
 
-            if(temp->right)
-                st.push(temp->right);
+                    curr = temp->right;
+                }
+                else {
+
+                    ans.push_back(temp->val);
+
+                    lastVisited = temp;
+
+                    st.pop();
+                }
+            }
         }
-
-        reverse(ans.begin(), ans.end());
 
         return ans;
     }
