@@ -369,6 +369,7 @@ My Data Structures and Algorithms practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -504,6 +505,7 @@ My Data Structures and Algorithms practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
@@ -519,6 +521,7 @@ My Data Structures and Algorithms practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Indexed Tree
