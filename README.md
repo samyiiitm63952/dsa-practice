@@ -65,6 +65,7 @@ My Data Structures and Algorithms practice
 | [2104-sum-of-subarray-ranges](https://github.com/samyiiitm63952/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/samyiiitm63952/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samyiiitm63952/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/samyiiitm63952/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samyiiitm63952/dsa-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
@@ -249,6 +250,7 @@ My Data Structures and Algorithms practice
 | [1914-cyclically-rotating-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/samyiiitm63952/dsa-practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/samyiiitm63952/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
@@ -335,6 +337,7 @@ My Data Structures and Algorithms practice
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samyiiitm63952/dsa-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/samyiiitm63952/dsa-practice/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/samyiiitm63952/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/samyiiitm63952/dsa-practice/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
