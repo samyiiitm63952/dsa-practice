@@ -381,6 +381,7 @@ My Data Structures and Algorithms practice
 | [0129-sum-root-to-leaf-numbers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
@@ -412,6 +413,7 @@ My Data Structures and Algorithms practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/samyiiitm63952/dsa-practice/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -529,6 +531,7 @@ My Data Structures and Algorithms practice
 | [0129-sum-root-to-leaf-numbers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -552,6 +555,7 @@ My Data Structures and Algorithms practice
 | [0129-sum-root-to-leaf-numbers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
