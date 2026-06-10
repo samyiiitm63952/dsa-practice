@@ -89,6 +89,7 @@ My Data Structures and Algorithms practice
 | [3660-jump-game-ix](https://github.com/samyiiitm63952/dsa-practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -468,6 +469,7 @@ My Data Structures and Algorithms practice
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samyiiitm63952/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -485,6 +487,7 @@ My Data Structures and Algorithms practice
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -562,6 +565,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
 | ------- |
