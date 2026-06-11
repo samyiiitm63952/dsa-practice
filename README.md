@@ -105,6 +105,7 @@ My Data Structures and Algorithms practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -369,6 +370,7 @@ My Data Structures and Algorithms practice
 | ------- |
 | [0078-subsets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/samyiiitm63952/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
@@ -538,6 +540,7 @@ My Data Structures and Algorithms practice
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -564,6 +567,7 @@ My Data Structures and Algorithms practice
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
