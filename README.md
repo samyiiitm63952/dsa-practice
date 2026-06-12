@@ -174,6 +174,7 @@ My Data Structures and Algorithms practice
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/samyiiitm63952/dsa-practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/samyiiitm63952/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -395,6 +396,7 @@ My Data Structures and Algorithms practice
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -428,6 +430,7 @@ My Data Structures and Algorithms practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/samyiiitm63952/dsa-practice/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -552,6 +555,7 @@ My Data Structures and Algorithms practice
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/samyiiitm63952/dsa-practice/tree/master/2236-root-equals-sum-of-children) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -581,6 +585,7 @@ My Data Structures and Algorithms practice
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/samyiiitm63952/dsa-practice/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Indexed Tree
