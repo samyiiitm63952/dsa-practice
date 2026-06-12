@@ -84,6 +84,7 @@ My Data Structures and Algorithms practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -134,6 +135,7 @@ My Data Structures and Algorithms practice
 | [2463-minimum-total-distance-traveled](https://github.com/samyiiitm63952/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/samyiiitm63952/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/samyiiitm63952/dsa-practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/samyiiitm63952/dsa-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -274,6 +276,7 @@ My Data Structures and Algorithms practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/samyiiitm63952/dsa-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/samyiiitm63952/dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -373,6 +376,7 @@ My Data Structures and Algorithms practice
 | [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/samyiiitm63952/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -395,6 +399,7 @@ My Data Structures and Algorithms practice
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -548,6 +553,7 @@ My Data Structures and Algorithms practice
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/samyiiitm63952/dsa-practice/tree/master/2236-root-equals-sum-of-children) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
