@@ -11,17 +11,30 @@
  */
 class Solution {
 public:
-    void solver(int &ans,TreeNode* root){
-        if(root==NULL)return;
-        solver(ans,root->left);
-        ans++;
-        solver(ans,root->right);
+    int lfh(TreeNode*root){
+        if(root==NULL)return 0;
+        int cnt=0;
+        while(root!=NULL){
+            cnt++;
+            root=root->left;
+        }
+        return cnt;
+    }
+    int rfh(TreeNode* root){
+        if(root==NULL)return 0;
+        int cnt=0;
+        while(root!=NULL){
+            cnt++;
+            root=root->right;
+        }
+        return cnt;
     }
 
     int countNodes(TreeNode* root) {
-        int ans=0;
-        if(root==NULL)return ans;
-        solver(ans,root);
-        return ans;
+        if(root==NULL)return 0;
+        int lh= lfh(root->left);
+        int rh = rfh(root->right);
+        if(lh==rh)return (1 << (lh + 1)) - 1;
+        return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
