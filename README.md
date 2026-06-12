@@ -185,6 +185,7 @@ My Data Structures and Algorithms practice
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samyiiitm63952/dsa-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/samyiiitm63952/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/samyiiitm63952/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -401,6 +402,7 @@ My Data Structures and Algorithms practice
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
@@ -435,6 +437,7 @@ My Data Structures and Algorithms practice
 | [1345-jump-game-iv](https://github.com/samyiiitm63952/dsa-practice/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
 | ------- |
@@ -558,6 +561,7 @@ My Data Structures and Algorithms practice
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/samyiiitm63952/dsa-practice/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -588,6 +592,7 @@ My Data Structures and Algorithms practice
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samyiiitm63952/dsa-practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/samyiiitm63952/dsa-practice/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Indexed Tree
 |  |
 | ------- |
