@@ -240,6 +240,7 @@ My Data Structures and Algorithms practice
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -301,6 +302,7 @@ My Data Structures and Algorithms practice
 | [0155-min-stack](https://github.com/samyiiitm63952/dsa-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/samyiiitm63952/dsa-practice/tree/master/0901-online-stock-span) |
@@ -404,6 +406,7 @@ My Data Structures and Algorithms practice
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -440,6 +443,7 @@ My Data Structures and Algorithms practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1306-jump-game-iii) |
@@ -566,6 +570,7 @@ My Data Structures and Algorithms practice
 | [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -599,6 +604,7 @@ My Data Structures and Algorithms practice
 | [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
