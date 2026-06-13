@@ -11,30 +11,13 @@
  */
 class Solution {
 public:
-   void dfs(TreeNode* root, vector<TreeNode*>& pre){
-    if(!root) return;
-
-    pre.push_back(root);
-
-    dfs(root->left, pre);
-    dfs(root->right, pre);
-}
-
-void flatten(TreeNode* root) {
-
-    if(!root) return;
-
-    vector<TreeNode*> pre;
-
-    dfs(root, pre);
-
-    for(int i=0;i<pre.size()-1;i++){
-
-        pre[i]->left = NULL;
-        pre[i]->right = pre[i+1];
+    TreeNode* prev =NULL;
+    void flatten(TreeNode* root) {
+        if(root==NULL)return;
+        flatten(root->right);
+        flatten(root->left);
+        root->right = prev;
+        root->left = NULL;
+        prev = root;
     }
-
-    pre.back()->left = NULL;
-    pre.back()->right = NULL;
-}
 };
