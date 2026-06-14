@@ -346,6 +346,7 @@ My Data Structures and Algorithms practice
 | [0907-sum-of-subarray-minimums](https://github.com/samyiiitm63952/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1006-clumsy-factorial](https://github.com/samyiiitm63952/dsa-practice/tree/master/1006-clumsy-factorial) |
 | [2104-sum-of-subarray-ranges](https://github.com/samyiiitm63952/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -362,6 +363,7 @@ My Data Structures and Algorithms practice
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samyiiitm63952/dsa-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/samyiiitm63952/dsa-practice/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/samyiiitm63952/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/samyiiitm63952/dsa-practice/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -480,6 +482,7 @@ My Data Structures and Algorithms practice
 | [0203-remove-linked-list-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0707-design-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
