@@ -306,6 +306,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/samyiiitm63952/dsa-practice/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -343,6 +344,7 @@ My Data Structures and Algorithms practice
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/samyiiitm63952/dsa-practice/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/samyiiitm63952/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -590,6 +592,7 @@ My Data Structures and Algorithms practice
 | [0129-sum-root-to-leaf-numbers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -615,6 +618,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0450-delete-node-in-a-bst) |
@@ -641,6 +645,7 @@ My Data Structures and Algorithms practice
 | [0129-sum-root-to-leaf-numbers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -673,4 +678,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
