@@ -259,6 +259,7 @@ My Data Structures and Algorithms practice
 | [3121-count-the-number-of-special-characters-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/samyiiitm63952/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/samyiiitm63952/dsa-practice/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -273,6 +274,7 @@ My Data Structures and Algorithms practice
 | [2161-partition-array-according-to-given-pivot](https://github.com/samyiiitm63952/dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/samyiiitm63952/dsa-practice/tree/master/3838-weighted-word-mapping) |
 ## Math
