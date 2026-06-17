@@ -30,6 +30,7 @@ My Data Structures and Algorithms practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samyiiitm63952/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ My Data Structures and Algorithms practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samyiiitm63952/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/samyiiitm63952/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0704-binary-search) |
@@ -367,6 +369,7 @@ My Data Structures and Algorithms practice
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samyiiitm63952/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
