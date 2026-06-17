@@ -11,23 +11,46 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>&ans){
-        if(root==NULL)return;
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-    }
-    bool findTarget(TreeNode* root, int k) {
-        vector<int>ans;
-        inorder(root,ans);
-        int l =0;
-        int r = ans.size()-1;
-        while(l<r){
-            if(ans[l]+ans[r]>k){
-                r--;
+    stack<TreeNode*>stn;
+    stack<TreeNode*>stp;
+
+     void pushAll(TreeNode* root, bool reverse) {
+        while (root) {
+            if (reverse) {
+                stp.push(root);
+                root = root->right;
+            } else {
+                stn.push(root);
+                root = root->left;
             }
-            else if(ans[l]+ans[r]<k){
-                l++;
+        }
+    }
+
+    int next(){
+        TreeNode* temp = stn.top();
+        stn.pop();
+        pushAll(temp->right,false);
+        return temp->val;
+    }
+    int prev(){
+        TreeNode* temp = stp.top();
+        stp.pop();
+        pushAll(temp->left,true);
+        return temp->val;
+    }
+
+
+    bool findTarget(TreeNode* root, int k) {
+        pushAll(root,true);
+        pushAll(root,false);
+        int i = next();
+        int j = prev();
+        while(i<j){
+            if(i+j > k){
+                j = prev();
+            }
+            else if(i+j <k){
+                i = next();
             }
             else {
                 return true;
