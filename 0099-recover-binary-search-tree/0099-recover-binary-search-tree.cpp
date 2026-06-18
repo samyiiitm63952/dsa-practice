@@ -11,30 +11,23 @@
  */
 class Solution {
 public:
-    void inorder(vector<int>& ans,TreeNode* root){
-        if(root==NULL)return;
-        inorder(ans,root->left);
-        ans.push_back(root->val);
-        inorder(ans,root->right);
+    TreeNode* first =NULL;
+    TreeNode* second =NULL;
+    TreeNode* prev = NULL;
 
+    void solver(TreeNode* root){
+        if(root==NULL)return;
+        solver(root->left);
+        if(prev && root->val < prev->val){
+            if(first == NULL)first = prev;
+                second = root;
+        }
+        prev = root;
+        solver(root->right);
     }
 
-    void solver(vector<int>& sorted,TreeNode * root,int& i){
-        if(root==NULL)return;
-        solver(sorted,root->left,i);
-        if(root->val != sorted[i] ){
-            root->val = sorted[i];
-        }
-        i++;
-        solver(sorted,root->right,i);
-    }    
-
-    void recoverTree(TreeNode* root) {
-        vector<int>sorted;
-        inorder(sorted,root);
-        sort(sorted.begin(),sorted.end());
-        int i =0;
-        solver(sorted,root,i);
-
+    void recoverTree(TreeNode* root) {  
+        solver(root);
+        swap(first->val,second->val);
     }
 };
