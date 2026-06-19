@@ -1,42 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
+        vector<int>ans;
+        if(root==NULL)return ans;
+        stack<TreeNode*>st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* curr = st.top();
+            st.pop();
+            ans.push_back(curr->val);
 
-        vector<int> ans;
-
-        stack<TreeNode*> st;
-
-        TreeNode* curr = root;
-        TreeNode* lastVisited = NULL;
-
-        while(curr != NULL || !st.empty()) {
-
-            // Go as left as possible
-            if(curr != NULL) {
-                st.push(curr);
-                curr = curr->left;
+            if(curr->left){
+                st.push(curr->left);
             }
-            else {
-
-                TreeNode* temp = st.top();
-
-                // If right subtree exists and not processed yet
-                if(temp->right != NULL &&
-                   lastVisited != temp->right) {
-
-                    curr = temp->right;
-                }
-                else {
-
-                    ans.push_back(temp->val);
-
-                    lastVisited = temp;
-
-                    st.pop();
-                }
-            }
+            if(curr->right)st.push(curr->right);
         }
-
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
