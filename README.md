@@ -61,6 +61,7 @@ My Data Structures and Algorithms practice
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/samyiiitm63952/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samyiiitm63952/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -214,6 +215,7 @@ My Data Structures and Algorithms practice
 | [1248-count-number-of-nice-subarrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samyiiitm63952/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/samyiiitm63952/dsa-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/samyiiitm63952/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/samyiiitm63952/dsa-practice/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/samyiiitm63952/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3225-maximum-score-from-grid-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/3225-maximum-score-from-grid-operations) |
