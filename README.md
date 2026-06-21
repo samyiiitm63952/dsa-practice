@@ -63,6 +63,7 @@ My Data Structures and Algorithms practice
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/samyiiitm63952/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samyiiitm63952/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/samyiiitm63952/dsa-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/samyiiitm63952/dsa-practice/tree/master/1861-rotating-the-box) |
@@ -160,6 +161,7 @@ My Data Structures and Algorithms practice
 | [1331-rank-transform-of-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samyiiitm63952/dsa-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/samyiiitm63952/dsa-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/samyiiitm63952/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samyiiitm63952/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -531,6 +533,7 @@ My Data Structures and Algorithms practice
 | [0402-remove-k-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/samyiiitm63952/dsa-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/samyiiitm63952/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samyiiitm63952/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -576,6 +579,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/samyiiitm63952/dsa-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Quickselect
 |  |
 | ------- |
