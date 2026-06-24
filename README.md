@@ -451,6 +451,7 @@ My Data Structures and Algorithms practice
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2685-count-the-number-of-complete-components](https://github.com/samyiiitm63952/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
@@ -461,6 +462,7 @@ My Data Structures and Algorithms practice
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/samyiiitm63952/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -492,6 +494,7 @@ My Data Structures and Algorithms practice
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2685-count-the-number-of-complete-components](https://github.com/samyiiitm63952/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -713,4 +716,5 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/samyiiitm63952/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
