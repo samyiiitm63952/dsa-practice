@@ -31,6 +31,7 @@ My Data Structures and Algorithms practice
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samyiiitm63952/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -434,6 +435,7 @@ My Data Structures and Algorithms practice
 | [0144-binary-tree-preorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -454,6 +456,7 @@ My Data Structures and Algorithms practice
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -478,6 +481,7 @@ My Data Structures and Algorithms practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -495,6 +499,7 @@ My Data Structures and Algorithms practice
 | [0048-rotate-image](https://github.com/samyiiitm63952/dsa-practice/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/samyiiitm63952/dsa-practice/tree/master/1861-rotating-the-box) |
