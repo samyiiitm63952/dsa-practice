@@ -1,11 +1,37 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adjls, vector<bool>& vis) {
-        vis[node] = true;
+    void bfs(int row, int col, vector<vector<char>>& grid, vector<vector<bool>>& vis) {
+        queue<pair<int, int>> q;
+        q.push({row, col});
 
-        for (auto it : adjls[node]) {
-            if (!vis[it]) {
-                dfs(it, adjls, vis);
+        int n = grid.size();
+        int m = grid[0].size();
+
+        vis[row][col] = true;
+
+        while (!q.empty()) {
+            int ro = q.front().first;
+            int co = q.front().second;
+            q.pop();
+
+            for (int rdel = -1; rdel <= 1; rdel++) {
+                for (int cdel = -1; cdel <= 1; cdel++) {
+
+                    // Skip self and diagonals
+                    if (abs(rdel) + abs(cdel) != 1) continue;
+
+                    int nrow = ro + rdel;
+                    int ncol = co + cdel;
+
+                    if (nrow < n && ncol < m &&
+                        nrow >= 0 && ncol >= 0 &&
+                        grid[nrow][ncol] == '1' &&
+                        !vis[nrow][ncol]) {
+
+                        vis[nrow][ncol] = true;
+                        q.push({nrow, ncol});
+                    }
+                }
             }
         }
     }
@@ -13,47 +39,18 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         if (grid.size() == 0) return 0;
 
-        int rows = grid.size();
-        int cols = grid[0].size();
-        int total = rows * cols;
+        vector<vector<bool>> vis(
+            grid.size(),
+            vector<bool>(grid[0].size(), false)
+        );
 
-        vector<vector<int>> adjls(total);
-
-        int dr[4] = {-1, 1, 0, 0};
-        int dc[4] = {0, 0, -1, 1};
-
-        // Build adjacency list
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == '1') {
-                    int node = i * cols + j;
-
-                    for (int k = 0; k < 4; k++) {
-                        int ni = i + dr[k];
-                        int nj = j + dc[k];
-
-                        if (ni >= 0 && ni < rows &&
-                            nj >= 0 && nj < cols &&
-                            grid[ni][nj] == '1') {
-
-                            int neighbor = ni * cols + nj;
-                            adjls[node].push_back(neighbor);
-                        }
-                    }
-                }
-            }
-        }
-
-        vector<bool> vis(total, false);
         int cnt = 0;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                int node = i * cols + j;
-
-                if (grid[i][j] == '1' && !vis[node]) {
+        for (int row = 0; row < grid.size(); row++) {
+            for (int col = 0; col < grid[0].size(); col++) {
+                if (!vis[row][col] && grid[row][col] == '1') {
                     cnt++;
-                    dfs(node, adjls, vis);
+                    bfs(row, col, grid, vis);
                 }
             }
         }
