@@ -1,76 +1,50 @@
 class Solution {
+    static constexpr int p = 1e9 + 7;
 public:
-    static const int MOD = 1e9+7;
-
-    using Matrix = vector<vector<long long>>;
-
-    Matrix multiply(Matrix &A, Matrix &B) {
-        int n = A.size();
-        Matrix C(n, vector<long long>(n, 0));
-
-        for (int i = 0; i < n; i++) {
-            for (int k = 0; k < n; k++) {
-                if (A[i][k] == 0) continue;
-                for (int j = 0; j < n; j++) {
-                    C[i][j] = (C[i][j] + A[i][k] * B[k][j]) % MOD;
+    int zigZagArrays(int n, int l, int r) {
+        int k = r - l + 1;
+        unsigned mat[k][k];
+        memset(mat, 0, sizeof(mat));
+        // init mat
+        for(int i = 0; i < k; ++i) {
+            for(int j = 0; j < i; ++j) {
+                mat[k - j - 1][i] = 1;
+            }
+        }
+        int pow = n - 1;
+        unsigned res[k];
+        for(int i = 0; i < k; ++i) {
+            res[i] = 1;
+        }
+        while(pow > 0) {
+            if(pow & 1) {
+                // res = res * curr;
+                unsigned tmp[k];
+                memset(tmp, 0, sizeof(tmp));
+                for(int j = 0; j < k; ++j) {
+                    for(int l = 0; l < k; ++l) {
+                        tmp[j] = (tmp[j] + 1ll * res[l] * mat[l][j]) % p;
+                    }
+                }
+                memcpy(res, tmp, sizeof(tmp));
+            }
+            // curr = curr * curr;
+            unsigned tmp[k][k];
+            memset(tmp, 0, sizeof(tmp));
+            for(int i = 0; i < k; ++i) {
+                for(int j = 0; j < k; ++j) {
+                    for(int l = 0; l < k; ++l) {
+                        tmp[i][j] = (tmp[i][j] + 1ll * mat[i][l] * mat[l][j]) % p;
+                    }
                 }
             }
+            memcpy(mat, tmp, sizeof(tmp));
+            pow >>= 1;
         }
-        return C;
-    }
-
-    Matrix power(Matrix base, long long exp) {
-        int n = base.size();
-        Matrix result(n, vector<long long>(n, 0));
-
-        for (int i = 0; i < n; i++) result[i][i] = 1;
-
-        while (exp) {
-            if (exp & 1) result = multiply(result, base);
-            base = multiply(base, base);
-            exp >>= 1;
+        unsigned ret = 0;
+        for(int i = 0; i < k; ++i) {
+            ret = (ret + res[i]) % p;
         }
-        return result;
-    }
-
-    int zigZagArrays(int n, int l, int r) {
-        int m = r - l + 1;
-
-        if (n == 1) return m;
-
-        int size = 2 * m;
-        Matrix T(size, vector<long long>(size, 0));
-
-        // DOWN: 0..m-1
-        // UP:   m..2m-1
-
-        for (int x = 0; x < m; x++) {
-            // DOWN[x] -> UP[y] where y > x
-            for (int y = x + 1; y < m; y++) {
-                T[m + y][x] = 1;
-            }
-
-            // UP[x] -> DOWN[y] where y < x
-            for (int y = 0; y < x; y++) {
-                T[y][m + x] = 1;
-            }
-        }
-
-        Matrix T_exp = power(T, n - 1);
-
-        vector<long long> init(size, 1); // both UP and DOWN = 1
-
-        vector<long long> result(size, 0);
-
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
-                result[i] = (result[i] + T_exp[i][j] * init[j]) % MOD;
-            }
-        }
-
-        long long ans = 0;
-        for (auto x : result) ans = (ans + x) % MOD;
-
-        return ans;
+        return 2 * ret % p;
     }
 };
