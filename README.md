@@ -246,6 +246,7 @@ My Data Structures and Algorithms practice
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/samyiiitm63952/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/samyiiitm63952/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -377,6 +378,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0015-3sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/samyiiitm63952/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/samyiiitm63952/dsa-practice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -513,6 +515,7 @@ My Data Structures and Algorithms practice
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0796-rotate-string) |
 ## Linked List
 |  |
