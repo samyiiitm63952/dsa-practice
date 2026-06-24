@@ -440,6 +440,7 @@ My Data Structures and Algorithms practice
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -453,6 +454,7 @@ My Data Structures and Algorithms practice
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -477,6 +479,7 @@ My Data Structures and Algorithms practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -701,4 +704,8 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/samyiiitm63952/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
