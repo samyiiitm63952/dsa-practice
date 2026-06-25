@@ -34,6 +34,7 @@ My Data Structures and Algorithms practice
 | [0169-majority-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
@@ -158,6 +159,7 @@ My Data Structures and Algorithms practice
 | [0047-permutations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
@@ -185,6 +187,7 @@ My Data Structures and Algorithms practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/samyiiitm63952/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/samyiiitm63952/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -317,6 +320,7 @@ My Data Structures and Algorithms practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/samyiiitm63952/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/samyiiitm63952/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
