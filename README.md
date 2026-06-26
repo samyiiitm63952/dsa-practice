@@ -41,6 +41,7 @@ My Data Structures and Algorithms practice
 | [0496-next-greater-element-i](https://github.com/samyiiitm63952/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/samyiiitm63952/dsa-practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/samyiiitm63952/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ My Data Structures and Algorithms practice
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/samyiiitm63952/dsa-practice/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/samyiiitm63952/dsa-practice/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/samyiiitm63952/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/samyiiitm63952/dsa-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -509,6 +511,7 @@ My Data Structures and Algorithms practice
 | [0199-binary-tree-right-side-view](https://github.com/samyiiitm63952/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/samyiiitm63952/dsa-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/samyiiitm63952/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samyiiitm63952/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -529,6 +532,7 @@ My Data Structures and Algorithms practice
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/samyiiitm63952/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/samyiiitm63952/dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/samyiiitm63952/dsa-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/samyiiitm63952/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
