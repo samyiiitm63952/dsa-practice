@@ -33,6 +33,7 @@ My Data Structures and Algorithms practice
 | [0162-find-peak-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samyiiitm63952/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/samyiiitm63952/dsa-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0229-majority-element-ii) |
@@ -171,6 +172,7 @@ My Data Structures and Algorithms practice
 | [0015-3sum](https://github.com/samyiiitm63952/dsa-practice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/samyiiitm63952/dsa-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0295-find-median-from-data-stream) |
@@ -277,6 +279,7 @@ My Data Structures and Algorithms practice
 | [0079-word-search](https://github.com/samyiiitm63952/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/samyiiitm63952/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/samyiiitm63952/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/samyiiitm63952/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samyiiitm63952/dsa-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/samyiiitm63952/dsa-practice/tree/master/0344-reverse-string) |
@@ -603,6 +606,7 @@ My Data Structures and Algorithms practice
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/samyiiitm63952/dsa-practice/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/samyiiitm63952/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/samyiiitm63952/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
