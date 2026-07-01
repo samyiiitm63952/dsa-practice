@@ -9,14 +9,17 @@ public:
         }
         if(!nums.size())return -1;
         sort(nums.begin(),nums.end());
-        int largest = nums.back();
-        int ans = -1;
-        for(int i = nums.size()-1;i>=0;i--){
-            if(nums[i]!= largest){
-                ans = nums[i];
-                break;
+        int largest=-1;
+        for(int it:nums){
+            largest = max(it,largest);
+        }
+        int ans= -1;
+        for( int it:nums){
+            if(it<largest){
+                ans = max( it , ans);
             }
         }
         return ans;
+
     }
 };
