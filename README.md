@@ -93,6 +93,7 @@ My Data Structures and Algorithms practice
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyiiitm63952/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/samyiiitm63952/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/samyiiitm63952/dsa-practice/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/samyiiitm63952/dsa-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/samyiiitm63952/dsa-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3093-longest-common-suffix-queries) |
@@ -134,6 +135,7 @@ My Data Structures and Algorithms practice
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/samyiiitm63952/dsa-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyiiitm63952/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/samyiiitm63952/dsa-practice/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/samyiiitm63952/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/samyiiitm63952/dsa-practice/tree/master/3488-closest-equal-element-queries) |
@@ -503,6 +505,7 @@ My Data Structures and Algorithms practice
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/samyiiitm63952/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -541,6 +544,7 @@ My Data Structures and Algorithms practice
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/samyiiitm63952/dsa-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/samyiiitm63952/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -559,6 +563,7 @@ My Data Structures and Algorithms practice
 | [1861-rotating-the-box](https://github.com/samyiiitm63952/dsa-practice/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/samyiiitm63952/dsa-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String Matching
@@ -625,6 +630,7 @@ My Data Structures and Algorithms practice
 | [0621-task-scheduler](https://github.com/samyiiitm63952/dsa-practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/samyiiitm63952/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/samyiiitm63952/dsa-practice/tree/master/0912-sort-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/samyiiitm63952/dsa-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/samyiiitm63952/dsa-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
